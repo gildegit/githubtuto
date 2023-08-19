@@ -1,0 +1,6 @@
+Gwladys
+Github
+GitHub est une plateforme permettant aux développeurs et programmeurs de partager les codes sur différents projets.
+Pour Cloner un repository sur GitHub, il faut se positionner sur celui-ci, cliquer sur code, copier le lien SSH qui s'y trouve et le coller sur son terminal.
+Une fois le dossier cloner on peut le modifier localement sans impacter le dossier principal. 
+
