@@ -1,6 +1,10 @@
+
 Gwladys
 Github
 GitHub est une plateforme permettant aux développeurs et programmeurs de partager les codes sur différents projets.
 Pour Cloner un repository sur GitHub, il faut se positionner sur celui-ci, cliquer sur code, copier le lien SSH qui s'y trouve et le coller sur son terminal.
 Une fois le dossier cloner on peut le modifier localement sans impacter le dossier principal. 
-
+GILDAS
+pour update un fichier de GITHUB pour notre terminal   local :
+1- on se rassure quon nest effectivement sur le dossier en question 
+2- ensuite on tape la command git pull et le dossier sera update sur notre terminal 
